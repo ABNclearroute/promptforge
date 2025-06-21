@@ -1,0 +1,7 @@
+langchain>=0.1.16
+chromadb>=0.4.24
+tiktoken
+unstructured
+pdfminer.six
+python-docx
+openai
